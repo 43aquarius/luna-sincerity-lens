@@ -1,0 +1,4 @@
+# luna-sincerity-lens bundle 层：装入 profile 时自动应用（package.json dsh.bundle.patch）。
+- insert:
+    - id: luna-sincerity-lens
+      name: 'luna-sincerity-lens'
